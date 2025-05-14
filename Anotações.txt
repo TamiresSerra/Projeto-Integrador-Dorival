@@ -1,0 +1,14 @@
+1.quais são os comando para criar um projeto com o nome "smart_city" usando o Django Rest Framework 
+
+2. Crie para mim uma API RESTful para gerenciar dados de sensores.
+A API deve ter endpoints parar criar, ler, atualizar e deletar (CRUD) dados dos sensores e ambientes.
+Os dados dos sensores devem incluir:
+
+Temperatura (°C)
+Luminosidade (lux)
+Umidade (%)
+Contador (num)
+
+Os dados devem ser armazenados em um bando de dados db.sqlite
+
+Implementar autenticação utilizando JSON Web Tokens (JWT) para proteger os endpoints.
